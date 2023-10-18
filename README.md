@@ -3,7 +3,7 @@ First term project.
 
 -----------------------------------------------
 
-1. Run the "main.py" file to to start playing the game
+1. Run the "game.py" file to start playing the game
 2. Enjoy
 
 -----------------------------------------------
